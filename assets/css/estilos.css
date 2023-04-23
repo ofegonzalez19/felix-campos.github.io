@@ -37,3 +37,14 @@ body {
   }
 
 }
+#Mi-Portfolios .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+} 
+img {
+  height: 700px;
+  width: 300px;
+  object-fit: contain;
+}
